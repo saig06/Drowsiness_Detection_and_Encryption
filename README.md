@@ -1,6 +1,6 @@
 # Drowsiness detection and Encryption of Results
 
-## **Problem Statement:**
+## **Problem Statement :**
 
 To monitor students during the online class sessions, detect drowsiness and encrypt the captured images.
 
@@ -21,5 +21,20 @@ To monitor students during the online class sessions, detect drowsiness and encr
 
 ## **Working :**
 
+**Drowsiness Detection :**
+
+
 ![](Images/Picture1.png)
+
+
 ![](Images/Picture2.png)
+
+
+**File after encryption :**
+
+
+![](Images/Picture3.png)
+
+
+
+Please go through the Presentation.pdf file for complete presentation.
